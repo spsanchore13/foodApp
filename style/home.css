@@ -1,0 +1,19 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+#navbar{
+    display: flex;
+    justify-content: flex-end;
+    border: 2px solid red;
+}
+
+#navbar a{
+    text-decoration: none;
+    color: black;
+    margin-right: 30px;
+}
+
+#navbar a:hover{
+    color: gray;
+}
